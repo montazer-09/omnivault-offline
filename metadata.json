@@ -1,0 +1,9 @@
+{
+  "name": "OmniVault Offline",
+  "description": "A high-security, local-first personal command center with encrypted storage and integrated Gemini intelligence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
